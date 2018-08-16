@@ -1,6 +1,5 @@
-
-
 class Stringer:
-    def __init__():
-
-    def main():
+    def __init__(self):
+        self.main()
+    def main(self):
+        pass
